@@ -8,7 +8,7 @@ Much of the last five years of homebrew development, particularly in emulation, 
 In expanding it's function from a backup loader to loading games for emulators, WiiFlow evolved a sophisticated and stable means of handling arguments
 - Although orginally intended to load games, any homebrew that can use arguments can, in effect, use WiiFlow's coverflows as an exceptionally beautiful, point and click / icon interface.
 
-WiiFlow was originally conceived as a means of accessing backup disks imnages using a custom IOS - Nintendo code edited and reinstalled in a different IOS 'slot'. A custom IOS is, by definition, a copyright infringement; and this means WiiFlow, in it's standard form, cannot be published on sites that need legitimacy to survive.
+WiiFlow was originally conceived as a means of accessing backup disk images using a custom IOS - Nintendo code edited and reinstalled in a different IOS 'slot'. A custom IOS is, by definition, a copyright infringement; and this means WiiFlow, in it's standard form, cannot be published on sites that need legitimacy to survive.
 
 This includes the home of the homebrew channel, Wii homebrew portal, and first google hit for "wii homebrew" - Wiibrew.
 
