@@ -14,8 +14,8 @@ This includes the home of the homebrew channel, Wii homebrew portal, and first g
 
 - By removing 'illegal' content, HomeFlow can take many of the plugins and other content Wiiflow, Plugin developers, and others, have worked on over the years, and present it to an audience excluded by WiiFlow's illegitimacy, and
 - By presenting HomeFlow not as an app or content launcher, but a ready made front end for any homebrew that can handle arguments, and
-- By illustrating the possibilities that "HomeFlow" allows by using my experince building a plugin infrastructure for "QuakeGX" - and a flash game opera launcher, based on the outdated "bookmarks" wiiflow plugin -
-- I  hope to inspire coders to generate more homebrew, and users, like me, to exploit it.
+- By illustrating the possibilities that "HomeFlow" allows by using my experience building a plugin infrastructure for "QuakeGX" - and a flash game opera launcher, based on the outdated "bookmarks" wiiflow plugin -
+- I  hope to inspire coders to generate more homebrew, and the means for users, like me, to exploit it.
 
 HomeFlow is a downstream fork of WiiFlow Lite Einstein mod: https://github.com/einsteinx2/wiiflow-lite-einstein-mod
 
